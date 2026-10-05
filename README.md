@@ -85,14 +85,6 @@ model = joblib.load('models/film_model.pkl')
 
 ---
 
-## 👤 Geliştirici
-
-**Mehmet Emirhan Oğuz**
-- LinkedIn: [linkedin.com/in/emirhanoguz0](https://linkedin.com/in/emirhanoguz0)
-- GitHub: [github.com/emirhanoguz0](https://github.com/emirhanoguz0)
-- Portfolyo: [emirhanoguz0.github.io/portfolio](https://emirhanoguz0.github.io/portfolio)
-
----
-
 ## 📄 Lisans
 Bu proje [MIT Lisansı](LICENSE) kapsamında sunulmaktadır.
+
