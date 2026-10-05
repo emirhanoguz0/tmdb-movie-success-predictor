@@ -59,8 +59,8 @@ Modelin başarısındaki en kritik yenilik, kadro geçmişini matematiksel sinya
 
 ```bash
 # 1. Depoyu klonlayın
-git clone https://github.com/emirhanoguz0/TMDB-Film-Basari-Tahmini.git
-cd TMDB-Film-Basari-Tahmini
+git clone https://github.com/emirhanoguz0/tmdb-movie-success-predictor.git
+cd tmdb-movie-success-predictor
 
 # 2. Bağımlılıkları yükleyin
 pip install -r requirements.txt
